@@ -2,8 +2,7 @@
 
 <div align="center">
     <h3> <strong>📈 GitHub Activity Graph</strong> </h3>
-
-[![iABn0rma1 Github Contribution Graph](https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=iABn0rma1&custom_title=%20&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    <img src="https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=iABn0rma1&custom_title=%20&bg_color=000000&color=0079fa&line=2100fa&point=0079fa&area=true&hide_border=true" width="800" />
 </div> 
 
 ---
@@ -13,8 +12,8 @@
 </div> 
 
 <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iABn0rma1&theme=highcontrast" width="580" />
-    <img src="https://github-readme-stats.vercel.app/api?username=iABn0rma1&show_icons=true&locale=en&theme=highcontrast&rank_icon=github&hide_border=true" width="400" />
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=iABn0rma1&theme=gruvbox-light&date_format=j%20M%5B%20Y%5D&background=000000&sideNums=2100FA&sideLabels=EBEBEB&dates=0079FA&hide_current_streak=true&hide_border=true" alt="GitHub Streak" width="400" style="padding-right:20"/></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=iABn0rma1&show_icons=true&locale=en&bg_color=000000&title_color=2100fa&icon_color=0079fa&text_color=ffffff&rank_icon=github&hide_border=true&hide_title=true" width="450" />
 </p>
 
 ---
@@ -22,8 +21,7 @@
 <div align=center>
     <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
-    
-<!-- retro visitor counter -->  
+
 <p align="center" >   
     <img src="https://profile-counter.glitch.me/iABn0rma1/count.svg" />  
 </p>
