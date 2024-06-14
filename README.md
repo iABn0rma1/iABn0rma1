@@ -25,7 +25,7 @@
 
 <div align=center>
     <h3><b>💻 Tech Stack</b></h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iABn0rma1&theme=chartreuse_dark"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iABn0rma1&size_weight=0.1&count_weight=0.1&layout=compact&theme=radical"  />
 </div>
 
 <div align="center>
