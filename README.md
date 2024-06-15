@@ -25,7 +25,8 @@
 
 <div align=center>
     <h3><b>💻 Tech Stack</b></h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iABn0rma1&size_weight=0.1&count_weight=0.1&layout=compact&theme=radical"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iABn0rma1&size_weight=0.1&count_weight=0.1&layout=compact&theme=radical" height="250px" //>
+    <img src="https://stats.quine.sh/iABn0rma1/topics-over-time?theme=dark" height="400px" />
 </div>
 
 <div align="center>
