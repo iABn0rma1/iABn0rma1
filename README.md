@@ -17,8 +17,9 @@
 ---
 
 <div align="center">
-    <h3> <b>📈 GitHub Activity Graph</b> </h3>
-    <img src="https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=iABn0rma1&custom_title=%20&bg_color=000000&color=0079fa&line=7fff00&point=3672a5&area=true&area_color=2100fa&hide_border=true" width="800" />
+    <h3> <b>📈 GitHub Activity</b> </h3>
+    <img src="https://github-readme-activity-graph-lemon-theta.vercel.app/graph?username=iABn0rma1&custom_title=%20&bg_color=000000&color=0079fa&line=7fff00&point=3672a5&area=true&area_color=2100fa&hide_border=true" height="250px" width="500" alt="Graph" />
+    <img src="https://stats.quira.sh/iABn0rma1/github?theme=dark" height="250px" width="400" alt="GitHub Stats"/>
 </div> 
 
 ---
@@ -26,7 +27,7 @@
 <div align=center>
     <h3><b>💻 Tech Stack</b></h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iABn0rma1&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.1&theme=radical" height="250px" //>
-    <img src="https://stats.quine.sh/iABn0rma1/topics-over-time?theme=dark" height="400px" />
+    <img src="https://stats.quine.sh/iABn0rma1/topics-over-time?theme=dark" height="250px" width="400" />
 </div>
 
 <div align="center>
