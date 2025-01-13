@@ -32,15 +32,6 @@
 ---
 
 <div align=center>
-    <h3><b>✍️ Random Dev Quote</b></h3>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align=center>
     <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
 
@@ -48,5 +39,3 @@
 <p align="center" >   
     <img src="https://profile-counter.glitch.me/iABn0rma1/count.svg" />  
 </p>
-
----
