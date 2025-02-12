@@ -28,14 +28,3 @@
 <div align="center>
     <img src="https://github-readme-streak-stats.herokuapp.com?user=iABn0rma1&theme=gruvbox-light&date_format=j%20M%5B%20Y%5D&background=000000&sideNums=7fff00&sideLabels=EBEBEB&dates=3672a5&hide_current_streak=true&hide_border=true" alt="GitHub Streak" width="500">
 </div>
-
----
-
-<div align=center>
-    <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-
-<p align="center" >   
-    <img src="https://profile-counter.glitch.me/iABn0rma1/count.svg" />  
-</p>
