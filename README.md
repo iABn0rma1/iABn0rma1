@@ -18,12 +18,3 @@
 </div> 
 
 ---
-
-<div align=center>
-    <h3><b>💻 Tech Stack</b></h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iABn0rma1&langs_count=20&layout=compact&size_weight=0.1&count_weight=0.1&theme=radical" height="250px" //>
-</div>
-
-<div align="center>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=iABn0rma1&theme=gruvbox-light&date_format=j%20M%5B%20Y%5D&background=000000&sideNums=7fff00&sideLabels=EBEBEB&dates=3672a5&hide_current_streak=true&hide_border=true" alt="GitHub Streak" width="500">
-</div>
