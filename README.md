@@ -5,7 +5,9 @@
         <img src="https://lanyard.cnrad.dev/api/1185264903670485073?idleMessage=Probably%20brainstorming..." alt="Discord Presence")
     </a>
     <div>
-        
+
+---
+
 [![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/iABnormal) 
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/amanbarthwal0110) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/amanbarthwal)
@@ -16,5 +18,3 @@
     </div>
 
 </div> 
-
----
